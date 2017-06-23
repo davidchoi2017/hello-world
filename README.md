@@ -1,2 +1,3 @@
 # hello-world
-Repository created to learn how to use Github by following the Github Tutorial.
+
+Hello world!  I am editing this readme file as a test.  I'm doing this for the Github tutorial to learn the basics of using Github.
